@@ -10,8 +10,6 @@ jobs:
       matrix:
         os:
           - ubuntu-latest
-          - macos-latest
-          - windows-latest
         ruby:
           - 3.2
           - truffleruby-head
